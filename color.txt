@@ -6,3 +6,7 @@ Green
 Yellow
 Orange
 Red
+----------
+Sky Colors:
+Blue
+Light Blue
