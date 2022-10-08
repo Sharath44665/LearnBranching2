@@ -12,3 +12,6 @@ Liked Colors:
 -------------
 Purple
 pink
+Green
+light Green
+Dark Green
