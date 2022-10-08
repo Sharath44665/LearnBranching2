@@ -17,3 +17,5 @@ nice to have colors:
 Black
 Dracula
 Dark Black
+Dark Blue
+light Blue
