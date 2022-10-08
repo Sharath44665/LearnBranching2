@@ -10,4 +10,10 @@ Red
 Sky Colors:
 Blue
 Light Blue
+________________
+---------
+nice to have colors:
+---------
 Black
+Dracula
+Dark Black
